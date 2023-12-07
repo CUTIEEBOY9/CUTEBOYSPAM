@@ -3,7 +3,7 @@ from telethon import events, Button
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDLR as hl
 
 
-HELP_STRING = f"★ ™°‌ 🫧 ☆𝐌𝐎𝐎𝐍𝐘 𝐎𝐏☆ 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **𝙲𝙻𝙸𝙲𝙺 𝙾𝙽 𝙱𝙴𝙻𝙾𝚆 𝙱𝚄𝚃𝚃𝙾𝙽 𝙵𝙾𝚁 𝙷𝙴𝙻𝙿**\n» **𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: @moon_m_6**"
+HELP_STRING = f"★ ™°‌ 🫧 ༄𝗖𝗨𝗧𝗘 𝗕𝗢𝗬 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **𝙲𝙻𝙸𝙲𝙺 𝙾𝙽 𝙱𝙴𝙻𝙾𝚆 𝙱𝚄𝚃𝚃𝙾𝙽 𝙵𝙾𝚁 𝙷𝙴𝙻𝙿**\n» **𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: @CUTIEEBOY9**"
 
 HELP_BUTTON = [
     [
@@ -14,8 +14,8 @@ HELP_BUTTON = [
       Button.inline("💘 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚂 💘", data="extra")
     ],
     [
-      Button.url("🍁 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚁 🍁", "https://t.me/moon_m_6"),
-      Button.url("💖 s𝚞𝚙𝚙𝚘𝚛𝚃 💖", "https://t.me/+PfRardqZ41U1MTg1")
+      Button.url("🍁 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚁 🍁", "https://t.me/CUTIEEBOY9"),
+      Button.url("💖 s𝚞𝚙𝚙𝚘𝚛𝚃 💖", "https://t.me/CRAZY_FRIENDSS_CHATTING")
     ]
   ]
 
@@ -136,8 +136,8 @@ async def helpback(event):
                 Button.inline("💖 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚂 💖", data="extra")
               ],
               [
-                Button.url("💘 ⏤͟͟͢͞͞🇩𝗙𝗦⚔️「𝙈𝙊𝙊𝙉」 💘", "https://t.me/moon_m_6"),
-                Button.url("💫 𝚂𝚞𝚙𝚙𝚘𝚛𝚃 💫", "https://t.me/+PfRardqZ41U1MTg1")
+                Button.url("💘 ༄𝗖𝗨𝗧𝗘 𝗕𝗢𝗬 💘", "https://t.me/CUTIEEBOY9"),
+                Button.url("💫 𝚂𝚞𝚙𝚙𝚘𝚛𝚃 💫", "https://t.me/CRAZY_FRIENDSS_CHATTING")
               ]
             ]
           )
