@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝘾𝙐𝙏𝙀 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/+PfRardqZ41U1MTg1"><img src="https://telegra.ph/file/d557c20c6054491d2c20a.jpg" width="400"></a></p>0
+<p align="center"><a href="https://t.me/CRAZY_FRIENDSS_CHATTING"><img src="https://telegra.ph/file/c4b8f21ac95647ecd37ed.jpg" width="400"></a></p>0
 
 
 > ⭐️ Thanks to everyone for using this op ™°‌ 🫧 ༄𝗖𝗨𝗧𝗘 𝗕𝗢�. That is the greatest pleasure we have !
