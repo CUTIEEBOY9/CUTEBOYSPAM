@@ -99,7 +99,7 @@ async def addsudo(event):
         Heroku = heroku3.from_key(HEROKU_API_KEY)
         sudousers = getenv("SUDO_USERS", default=None)
 
-        ok = await event.reply(f"» __💗★ Tum New Masoom bache banane ja rhe....Tumko sudo mil gaya ★💗...__🚀🚀")
+        ok = await event.reply(f"» __💗★ Tum cuteboy ke bete ban ne ja rhe ho....Tumko sudo mil gaya ★💗...__🚀🚀")
         target = ""
         if HEROKU_APP_NAME is not None:
             app = Heroku.app(HEROKU_APP_NAME)
