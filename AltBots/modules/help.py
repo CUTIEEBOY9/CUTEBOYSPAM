@@ -14,8 +14,8 @@ HELP_BUTTON = [
       Button.inline("💘 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚂 💘", data="extra")
     ],
     [
-      Button.url("🍁 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚁 🍁", "https://t.me/II_CUTEBOY_II"),
-      Button.url("💖 s𝚞𝚙𝚙𝚘𝚛𝚃 💖", "https://II_DIL_KI_DASTAN_II")
+      Button.url("🍁 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚁 🍁", "https://t.me/CUTEBOYxOP"),
+      Button.url("💖 s𝚞𝚙𝚙𝚘𝚛𝚃 💖", "https://@HIND_LOK")
     ]
   ]
 
