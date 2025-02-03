@@ -136,13 +136,13 @@ async def helpback(event):
                 Button.inline("💖 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚂 💖", data="extra")
               ],
               [
-                Button.url("💘 ༄𝗖𝗨𝗧𝗘 𝗕𝗢𝗬 💘", "https://t.me/II_CUTEBOY_II"),
-                Button.url("💫 𝚂𝚞𝚙𝚙𝚘𝚛𝚃 💫", "https://t.me/II_DIL_KI_DASTAN_II")
+                Button.url("💘 ༄𝗖𝗨𝗧𝗘 𝗕𝗢𝗬 💘", "https://t.me/CUTEBOYxOP"),
+                Button.url("💫 𝚂𝚞𝚙𝚙𝚘𝚛𝚃 💫", "https://t.me/HIND_LOK")
               ]
             ]
           )
     else:
-        await event.answer("CUTEBOY KO DM KRO SUDO KE LIYE @II_CUTEBOY_II" , cache_time=0, alert=True)
+        await event.answer("CUTEBOY KO DM KRO SUDO KE LIYE @CUTEBOYxOP" , cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"spam"))
